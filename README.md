@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Félix Rodríguez González</h1>
 <h3 align="center"> Desarrollador web junior full-stack 💻</h3>
 ![Snake animation](https://raw.githubusercontent.com/FelixRodriguezG/FelixRodriguezG/output/github-contribution-grid-snake-dark.svg)
-<p>En 2023 decidí reinventarme y enfocarme en el desarrollo de software. Hoy soy desarrollador web **Full Stack** y superviviente.  
-</p>
 <p>Pude obrevivír a la experiencia de ser autónomo, varias crisis, una pandemia e incluso un Bootcamp FullStack. En el Bootcamp descubri el gusto por codificar y aprendi a trabajar de forma agil y a aprender a
 aprender todo aquello que se a necesario para conseguir aportar valor al final de cada sprint.
 Soy un coder  enfocado a personas, disfruto de trabajar en equipo y es en ese contexto de equipo cuando surge mi mejor versión.</p>
