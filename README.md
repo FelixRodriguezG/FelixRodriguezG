@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <h1 align="center">Hola 👋, Soy Félix Rodríguez González</h1>
 <h3 align="center"> Desarrollador web junior full-stack 💻</h3>
 ![Snake animation](https://raw.githubusercontent.com/FelixRodriguezG/FelixRodriguezG/output/github-contribution-grid-snake-dark.svg)
