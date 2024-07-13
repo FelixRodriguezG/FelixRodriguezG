@@ -80,11 +80,47 @@ _____
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F0F0F0&size=40&left=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+Isiah+Zac;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F0F0F0&size=40&left=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+Félix+Rodríguez;)](https://git.io/typing-svg)
+markdown
+Copiar código
+# ¡Hola! Soy [Tu Nombre] 👋
 
+## Introducción
+Soy un desarrollador de software apasionado por la tecnología y la innovación. Me encanta resolver problemas y crear aplicaciones que hagan la vida más fácil. Bienvenido a mi perfil de GitHub, donde puedes encontrar una muestra de mis proyectos y contribuciones.
+
+## Sobre Mí
+- 🌱 Actualmente estoy aprendiendo [tecnología/tema que estás aprendiendo].
+- 💼 Trabajo como [tu puesto actual].
+- 🎓 Graduado en [tu carrera] de [tu universidad].
+- 🛠️ Me gusta trabajar en proyectos de [tus intereses principales, por ejemplo, desarrollo web, inteligencia artificial, etc.].
+
+## Proyectos Destacados
+Aquí hay algunos de los proyectos en los que he trabajado y que me enorgullecen:
+1. **[Nombre del Proyecto 1]** - Una breve descripción del proyecto. [Enlace al repositorio](URL del repositorio)
+2. **[Nombre del Proyecto 2]** - Una breve descripción del proyecto. [Enlace al repositorio](URL del repositorio)
+3. **[Nombre del Proyecto 3]** - Una breve descripción del proyecto. [Enlace al repositorio](URL del repositorio)
+
+## Habilidades
+- **Lenguajes de Programación:** JavaScript, Python, Java, C++, etc.
+- **Frameworks y Librerías:** React, Node.js, Django, etc.
+- **Herramientas y Plataformas:** Git, Docker, AWS, etc.
+- **Otros:** Pruebas de software, DevOps, Metodologías ágiles, etc.
+
+## Contacto
+- 📧 Email: [tu email]
+- 💼 LinkedIn: [tu perfil de LinkedIn]
+- 🌐 Página Web: [tu página web o portafolio]
+
+## Estadísticas de GitHub (Opcional)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+## Snake Animation
+![Snake animation](https://github.com/tu-usuario/tu-usuario/blob/output/github-contribution-grid-snake.svg)
+
+Gracias por visitar mi perfil de GitHub. ¡Espero que encuentres algo interesante aquí! 😊
 **`Code Artisan (Developer/Designer)`**
 
-I'm Isiah, a full-stack developer with an unwavering passion for combining technology with the art of design. I'm driven to create digital experiences that are both captivating and functional.
+I'm Felix, a full-stack developer with an unwavering passion for combining technology with the art of design. I'm driven to create digital experiences that are both captivating and functional.
 
 My GitHub profile is like a showcase of my creative journey, where you can witness my personal growth within the world of web development.
 
