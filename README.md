@@ -115,7 +115,7 @@ Aquí hay algunos de los proyectos en los que he trabajado y que me enorgullecen
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
 
 ## Snake Animation
-![Snake animation](https://github.com/tu-usuario/tu-usuario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FelixRodrigueG/FelixRodrigueG/blob/output/github-contribution-grid-snake.svg)
 
 Gracias por visitar mi perfil de GitHub. ¡Espero que encuentres algo interesante aquí! 😊
 **`Code Artisan (Developer/Designer)`**
