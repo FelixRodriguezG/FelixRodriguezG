@@ -112,7 +112,7 @@ Aquí hay algunos de los proyectos en los que he trabajado y que me enorgullecen
 - 🌐 Página Web: [tu página web o portafolio]
 
 ## Estadísticas de GitHub (Opcional)
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?FelixRodrigueG&show_icons=true&theme=radical)
 
 ## Snake Animation
 ![Snake animation](https://github.com/FelixRodrigueG/FelixRodrigueG/blob/output/github-contribution-grid-snake.svg)
