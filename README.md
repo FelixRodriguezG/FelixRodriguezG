@@ -1,22 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<h1 align="center">Hola 👋, Soy Félix Rodríguez González</h1>
+<h1 align="center">Hola 👋, soy Félix Rodríguez González</h1>
 <h3 align="center"> Desarrollador web junior full-stack 💻</h3>
-![Snake animation](https://raw.githubusercontent.com/FelixRodriguezG/FelixRodriguezG/output/github-contribution-grid-snake-dark.svg)
-<p>Pude obrevivír a la experiencia de ser autónomo, varias crisis, una pandemia e incluso un Bootcamp FullStack. En el Bootcamp descubri el gusto por codificar y aprendi a trabajar de forma agil y a aprender a
-aprender todo aquello que se a necesario para conseguir aportar valor al final de cada sprint.
-Soy un coder  enfocado a personas, disfruto de trabajar en equipo y es en ese contexto de equipo cuando surge mi mejor versión.</p>
-<p>Me encantan los perros, tanto que me forme como  adiestrador y urante muchos años esa fue mi profesión. Lo más curioso es que trabajando con perro fue cuando mas aprendí sobre mi mismo y sobre el reto de las personas</p>
-
-
+<p>Apasionado por la vida y el aprendizaje, actualmente me encuentro en una transición laboral hacia nuevas oportunidades como desarrollador web. Hasta el momento, he completado dos bootcamps y un curso de ciberseguridad. Disfruto trabajando en equipo, enfrentando retos y adquiriendo nuevos conocimientos. A lo largo de mi trayectoria, he cultivado competencias y habilidades clave, como la adaptabilidad, la atención al detalle y la capacidad para resolver problemas.</p>
 
 #### Actualmente me dedico a:
 
-- Reforzar conocimientos sobre el stack tecnológico MERN y nuevas tecnologías (Astro, Nextjs, Angular).
+- Reforzar conocimientos sobre Javascript, Vue y React.
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
 - Buscar una oportunidad laboral que me permita seguir creciento como profesional.
 ___
@@ -32,13 +20,13 @@ JavaScript, TypeScript, SQL
 
 ##### FrontEnd Development
 
-React, Vite, JavaScript, HTML, CSS, Bootstrap, Saas, Tailwind
+React, Vue, JavaScript, HTML, CSS, Bootstrap, Tailwind
 
 ____
 
 ##### Backend Development
 
-NodeJs, PHP, JavaScript
+NodeJs, NestJs, JavaScript
 
 _____
 
@@ -50,7 +38,7 @@ _____
 
  ##### Others
  
- Figma, Postman, Jira, Notion Git y Github, 
+ Figma, Vite, Vitest, Jest Postman, Jira, Notion Git y Github, 
 
 
 #### Algunos de mis proyectos:
@@ -59,9 +47,9 @@ _____
 <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>   -->
 
 
-| Linkskar's  | Widers Worls  | Touch the Dom  |
+| AskCode  | Widers Worls  | Touch the Dom  |
 |---|---|---|
-| <a href="" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="#" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="#" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+| <a href="https://github.com/creativesDevs/Askode" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="#" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="#" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
 
 |SoundWawe  | Canodrom  | MudApp  |
