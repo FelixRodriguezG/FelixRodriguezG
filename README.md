@@ -1,5 +1,5 @@
 ![Profile Banner](./img/banner.jpeg)
-<h2>Hey there! I'm Felix Rodriguez welcome to my GitHub Profile</h2>
+# Hey there! I'm Felix Rodriguez welcome to my GitHub Profile</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
